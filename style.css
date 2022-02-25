@@ -1,0 +1,68 @@
+
+body {
+    background-color: #0A122A;
+    color: #5DA9E9;
+}
+
+#imagem {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+img {
+    border: 2px white solid;
+}
+
+#info {
+    display: inline-block;
+    margin: 0 0 0 5px ;
+}
+
+.lista {
+}
+
+h1 {
+    color: #F0F7EE;
+    margin: 1rem 0 1rem 0;
+    text-align: center;
+}
+
+h2 {
+    margin: 1rem 0;
+    color: #6E75A8;
+}
+
+h3 {
+    margin: 0;
+}
+
+li {
+    color: #96ADC8;
+}
+
+a {
+    color: #5DA9E9;
+}
+
+a:visited {
+    color: #5DA9E9;
+}
+
+.redes-sociais-a {
+    color: #96ADC8;
+}
+
+.redes-sociais-a:visited {
+    color: #96ADC8;
+}
+
+.cor-special {
+    color: #0A122A;
+    background-color: #96ADC8;
+}
+
+.cor-special:visited {
+    color: #0A122A;
+    background-color: #96ADC8;
+}
+  
