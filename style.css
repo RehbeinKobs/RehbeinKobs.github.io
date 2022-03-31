@@ -1,12 +1,11 @@
 
+* {
+  font-family: sans-serif;
+}
+
 body {
   background-color: #0A122A;
   color: #5DA9E9;
-}
-
-#imagem {
-  display: inline-block;
-  vertical-align: middle;
 }
 
 img {
@@ -53,13 +52,4 @@ a:visited {
   color: #96ADC8;
 }
 
-.cor-special {
-  color: #0A122A;
-  background-color: #96ADC8;
-}
-
-.cor-special:visited {
-  color: #0A122A;
-  background-color: #96ADC8;
-}
   
